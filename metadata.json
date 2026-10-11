@@ -1,0 +1,6 @@
+{
+  "name": "回声：清江边的最后一封信",
+  "description": "以恩施地方文化和记忆为背景的互动叙事作品，静谧的手绘山地老屋与泛黄旧信。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
